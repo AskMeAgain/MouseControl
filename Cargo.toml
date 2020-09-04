@@ -1,0 +1,10 @@
+[package]
+name = "MouseControl"
+version = "0.1.0"
+authors = ["dev"]
+edition = "2018"
+
+[dependencies]
+inputbot = "0.5.0"
+enigo = "0.0.14"
+minifb = "0.18.0"
